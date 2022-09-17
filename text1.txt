@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5881-232A
+
+ Directory of C:\Users\HP\Desktop\My Project
+
+18-09-2022  00:54    <DIR>          .
+18-09-2022  00:54    <DIR>          ..
+18-09-2022  00:54                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  150,193,311,744 bytes free
